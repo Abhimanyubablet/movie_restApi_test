@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "744505086852",
+    "project_id": "fluttermovierestapiproject",
+    "storage_bucket": "fluttermovierestapiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744505086852:android:896c729b85dfe9e44283d1",
+        "android_client_info": {
+          "package_name": "com.example.project_for_movie_with_api"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbcsJDSOr_giRq2Qsr13GTFZRiigTICtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
